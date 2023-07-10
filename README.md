@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=WELCOME&fontAlignY=40&fontSize=50&desc=WICHAN'S%20GIT)
 
 ### Hi there 👋
 
