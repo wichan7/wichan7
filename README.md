@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 - 🔭 챗봇 서비스 개발 및 고객지원 업무로 재직했습니다. ~07/31
-- 📫 Contact: wichan7@naver.com
+- 📫 Contact: wichan.dev@gmail.com
 
 <!--
 ## Tech stack
