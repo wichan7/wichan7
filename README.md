@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=WELCOME&fontAlignY=40&fontSize=50&desc=WICHAN'S%20GITHUB%20PAGE)
 
 ## Hi there 👋
-- 🔭 챗봇 서비스 개발 및 고객지원 업무로 재직했습니다. ~07/31
+- 🔭 챗봇 서비스 개발 및 고객지원 업무로 재직했습니다. ~23.07.31
 - 👀 웹 기술에 관심이 많습니다.  
 - 📫 Contact: wichan.dev@gmail.com  
 
