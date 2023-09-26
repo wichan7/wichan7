@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=WELCOME&fontAlignY=40&fontSize=50&desc=WICHAN'S%20GITHUB%20PAGE)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=WELCOME&fontAlignY=40&fontSize=50&desc=WICHAN'S%20GITHUB%20PAGE)  
 
 ## Hi there 👋
-- 🔭 챗봇 서비스 개발 및 고객 기술지원 업무로 재직했습니다. 21.02 ~ 23.08 (2년 6개월)
+- 🔭 챗봇 서비스 개발 및 고객 기술지원 업무로 재직했습니다. 21.02 ~ 23.08 (2년 6개월)  
 - 👀 웹 백/프론트 기술에 관심이 많습니다.  
 - 📫 Contact: wichan.dev@gmail.com  
 
