@@ -1,11 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=WELCOME&fontAlignY=40&fontSize=50&desc=WICHAN'S%20GITHUB%20PAGE)  
 
 ## Hi there 👋  
-안녕하세요. full-stack을 추구하는 no-stack 개발자 강위찬입니다.  
+안녕하세요. full stack을 추구하는 no stack 개발자 강위찬입니다.  
 - 풀스택 개발 업무로 재직 중입니다. <sub>21.02 ~ now</sub>
-- 👀 웹 백/프론트 기술에 관심이 많습니다.  
-- 📫 Contact: wichan.dev@gmail.com  
 
+<!--
 ## Tech stack
 
 ### Frontend
@@ -42,3 +41,4 @@
   <img src="https://img.shields.io/badge/yaml-CB171E?style=for-the-badge&logo=yaml&logoColor=white">
   <img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 </div>
+-->
