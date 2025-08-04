@@ -1,8 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=WELCOME&fontAlignY=40&fontSize=50&desc=WICHAN'S%20GITHUB%20PAGE)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=6CBD57&width=435&lines=Hello%2C+I%E2%80%99m+Wichan+Kang.)](https://git.io/typing-svg)
 
+<!--
 ## Hi there 👋  
 안녕하세요. full stack을 추구하는 no stack 개발자 강위찬입니다.  
 - 풀스택 개발 업무로 재직 중입니다. <sub>21.02 ~ now</sub>
+-->
 
 <!--
 ## Tech stack
